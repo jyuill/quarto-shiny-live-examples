@@ -1,5 +1,5 @@
 ---
-title: "Quarto Shinylive test"
+title: "Quarto Shinylive test, example 01"
 format: 
   html:
     toc: true
@@ -30,7 +30,7 @@ To learn more about Quarto see <https://quarto.org>.
 
 To learn more about Shinylive see <https://github.com/posit-dev/r-shinylive>
 
-***Note:** this project set up using '.renv' which may cause complications for package management, especially on different machines.*
+***Note:** this project set up using '.renv' which is good for reproducibility, but may cause complications for package management on different machines over time.*
 
 ## Swiss Info data
 
